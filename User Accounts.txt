@@ -1,0 +1,11 @@
+SUPER USER: 
+email: airacatindig12@gmail.com
+password: admin
+
+MDRRMO
+Email: ianecarlo1@gmail.com
+Password: 12345
+
+PDRRMO
+Email: casaboljeremy00@gmail.com
+Password: pdrrmo
